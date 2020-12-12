@@ -1,10 +1,5 @@
 # AndroidRoad
 
-## 1. Android
-### 1.1 Android基础知识点
-#### 1.1.1 Activity
-<1> [官方指南Android developer Guide:Activities](https://developer.android.com/guide/components/activities/intro-activities)
+## 第一阶段
+- 整理复习Android开发所需要的各种知识，形成思维导图
 
-
-### 1.2 Android进阶
-#### 1.2.1 Android原理
