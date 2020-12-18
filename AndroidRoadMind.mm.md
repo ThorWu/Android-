@@ -56,6 +56,13 @@
 #### 四大组件
 ##### Activity
 ##### Service
+##### ContentProvider
+###### ContentResolver
+###### ContentObserver
+#### LoadManager
+##### Loader
+###### AsyncTaskLoader
+- CursorLoader
 ### 进阶
 #### 启动流程
 ##### 系统启动
@@ -70,6 +77,11 @@
 - 根Activity启动
 - 普通Activity启动
 ###### Service启动
+#### 框架
+##### JetPack
+###### ViewModel
+###### LiveData
+- setValue vs PostValue
 #### 线程和进程
 ##### 线程Thread
 ###### Android消息机制
