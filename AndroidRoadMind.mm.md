@@ -59,10 +59,11 @@
 ##### ContentProvider
 ###### ContentResolver
 ###### ContentObserver
-#### LoadManager
-##### Loader
-###### AsyncTaskLoader
-- CursorLoader
+#### [加载器Loaders](https://developer.android.google.cn/guide/components/loaders)
+##### LoadManager
+###### Loader
+- AsyncTaskLoader
+  - CursorLoader
 ### 进阶
 #### 启动流程
 ##### 系统启动
