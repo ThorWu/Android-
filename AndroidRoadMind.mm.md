@@ -64,6 +64,7 @@
 ###### Loader
 - AsyncTaskLoader
   - CursorLoader
+#### [Context](https://blog.csdn.net/lmj623565791/article/details/40481055)
 ### 进阶
 #### 启动流程
 ##### 系统启动
@@ -79,6 +80,10 @@
 - 普通Activity启动
 ###### Service启动
 #### 框架
+##### 常用代码架构
+###### MVC 
+###### MVP
+###### MVVM
 ##### JetPack
 ###### ViewModel
 ###### LiveData
