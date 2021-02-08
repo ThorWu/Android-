@@ -51,7 +51,7 @@
 ### 动态规划DP
 ### DFS/BFS
 ### 贪心
-### LRU
+### [LRU](https://leetcode-cn.com/problems/lru-cache/solution/lru-ce-lue-xiang-jie-he-shi-xian-by-labuladong/)
 
 ## Android
 ### 基础
